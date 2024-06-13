@@ -1,0 +1,2 @@
+Simple Bullet 3 application that creates a "creature" with joints and implements outside conditions that want to topple the creature. 
+Joint solvers are implemented for the creature to fight back and attempt to stay upright.
